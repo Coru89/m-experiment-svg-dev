@@ -16269,3 +16269,10 @@ form input[required] + label:after  {
 .shopify-section--main-customers-register .heading, #login-form-container .heading {
   color: #cccccc;
 }
+
+/* used to overlay svgs on images (tech page) */
+.svg-overlay {
+  left: 0;
+  position: absolute;
+  top: 0;
+}

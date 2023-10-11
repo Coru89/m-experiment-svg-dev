@@ -119,7 +119,7 @@
 
           {%- if section.settings.image != blank -%}
             {%- assign image = section.settings.image -%}
-            <div class="image__wrapper {% if section.settings.mobile_image != blank %}hidden-pocket{% endif %}">
+            <div class="{% if section.settings.mobile_image != blank %}hidden-pocket{% endif %}" style="position: relative;">
               {{ image | image_url: width: image.width | image_tag: class: 'add_your_class_here', loading: 'lazy' }}
               {%- if section.settings.svg != blank -%}
                 <div class="svg-overlay">
