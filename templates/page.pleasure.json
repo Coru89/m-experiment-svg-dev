@@ -1,0 +1,929 @@
+{
+  "sections": {
+    "323076ff-8d2f-456b-a8f6-746786b5340f": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16071078969494__323076ff-8d2f-456b-a8f6-746786b5340f-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/M_Frame_Pages_Header_Pleasure_Desktop.png",
+            "mobile_image": "shopify:\/\/shop_images\/M_Frame_Pages_Header_Pleasure_Mobile.png",
+            "title": "Pleasure",
+            "title_mobile": "",
+            "subheading": "KNOWING IT TAKES A LITTLE\nPAIN TO GET THERE",
+            "subheading_mobile": "",
+            "panel_link": "",
+            "heading_font_size_desktop": 194,
+            "heading_font_size_mobile": 64,
+            "subheading_font_size_desktop": 35,
+            "subheading_font_size_mobile": 14,
+            "font_scale": "slower",
+            "font_scale_subheading": "unset",
+            "overlay_content_position": "bottom-right",
+            "content_position_mobile": "bottom-left",
+            "nudge_text_x-axis_desktop": -4.5,
+            "nudge_text_y-axis_desktop": 12,
+            "nudge_text_x-axis_mobile": 5,
+            "nudge_text_y-axis_mobile": 9,
+            "heading_drop_shadow": true,
+            "heading_drop_shadow_x-offset": 0,
+            "heading_drop_shadow_y-offset": 3,
+            "heading_drop_shadow_color": "#000000",
+            "heading_drop_shadow_opacity": 20,
+            "nudge_subheading_y-axis_mobile": -0.5,
+            "nudge_subheading_y-axis_desktop": -1,
+            "remove_top_spacing": false,
+            "remove_bottom_spacing": false,
+            "subheading_uppercase": false,
+            "subheading_border": false,
+            "subheading_border_padding": 16,
+            "max_width_container": false,
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "template--16071078969494__323076ff-8d2f-456b-a8f6-746786b5340f-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pleasure-2160.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Leisure_Mobile_01.jpg",
+            "title": "Pleasure",
+            "title_mobile": "",
+            "subheading": "KNOWING IT TAKES A LITTLE\nPAIN TO GET THERE",
+            "subheading_mobile": "",
+            "panel_link": "",
+            "heading_font_size_desktop": 194,
+            "heading_font_size_mobile": 52,
+            "subheading_font_size_desktop": 35,
+            "subheading_font_size_mobile": 14,
+            "font_scale": "slower",
+            "font_scale_subheading": "unset",
+            "overlay_content_position": "top-right",
+            "content_position_mobile": "top-left",
+            "nudge_text_x-axis_desktop": -3,
+            "nudge_text_y-axis_desktop": -14,
+            "nudge_text_x-axis_mobile": 5,
+            "nudge_text_y-axis_mobile": -4,
+            "heading_drop_shadow": true,
+            "heading_drop_shadow_x-offset": 0,
+            "heading_drop_shadow_y-offset": 3,
+            "heading_drop_shadow_color": "#000000",
+            "heading_drop_shadow_opacity": 20,
+            "nudge_subheading_y-axis_mobile": -0.5,
+            "nudge_subheading_y-axis_desktop": -1,
+            "remove_top_spacing": false,
+            "remove_bottom_spacing": false,
+            "subheading_uppercase": false,
+            "subheading_border": false,
+            "subheading_border_padding": 16,
+            "max_width_container": false,
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--16071078969494__323076ff-8d2f-456b-a8f6-746786b5340f-image-1",
+        "template--16071078969494__323076ff-8d2f-456b-a8f6-746786b5340f-image-2"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "aa18ff9f-ede0-47f5-8a53-63d62c29047d": {
+      "type": "variant-collection-new",
+      "blocks": {
+        "template--15942754533526__aa18ff9f-ede0-47f5-8a53-63d62c29047d-1676636640e95fea90-0": {
+          "type": "variant-collection",
+          "settings": {
+            "product": "pleasure",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "32fde58c-8bd3-44a2-9656-74bf8d961afc": {
+          "type": "variant-collection",
+          "disabled": true,
+          "settings": {
+            "product": "business",
+            "subheading": "Business",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--15942754533526__aa18ff9f-ede0-47f5-8a53-63d62c29047d-1676636640e95fea90-0",
+        "32fde58c-8bd3-44a2-9656-74bf8d961afc"
+      ],
+      "custom_css": [
+        "a.product-item__aspect-ratio.aspect-ratio {aspect-ratio: unset;}",
+        "img.product-item__primary-image {max-height: 275px; object-fit: cover; position: relative;}",
+        ".product-item__image-wrapper {max-height: 235px;}",
+        ".product-list__inner {gap: 64px var(--product-list-column-gap);}",
+        ".variant-collection {padding-bottom: 40px !important;}",
+        ".vertical-breather {padding-top: 24px;}",
+        "@media screen and (min-width: 940px) {.vertical-breather {padding-top: var(--vertical-breather); }}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "products_count": 8,
+        "products_per_row": 3,
+        "stack_products": true,
+        "show_cta": false,
+        "background": "#ffffff",
+        "text_color": "#191919",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1661987067f4300c36": {
+      "type": "variant-collection",
+      "blocks": {
+        "16619870677ce180aa-0": {
+          "type": "variant-collection",
+          "settings": {
+            "product": "pleasure",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "16619870677ce180aa-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "subheading": "Leisure",
+        "title": "Pleasure",
+        "content": "",
+        "products_count": 12,
+        "products_per_row": 5,
+        "stack_products": true,
+        "show_cta": false,
+        "background": "#fbfbfb",
+        "text_color": "#000000",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "ec680da2-0d44-4265-bb68-d940f8df76fe": {
+      "type": "variant-collection-new",
+      "blocks": {
+        "template--15942754533526__ec680da2-0d44-4265-bb68-d940f8df76fe-1676636640e95fea90-0": {
+          "type": "variant-collection",
+          "settings": {
+            "product": "business",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--15942754533526__ec680da2-0d44-4265-bb68-d940f8df76fe-1676636640e95fea90-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "subheading": "Business",
+        "title": "",
+        "content": "",
+        "products_count": 8,
+        "products_per_row": 4,
+        "stack_products": true,
+        "show_cta": false,
+        "background": "#ffffff",
+        "text_color": "#191919",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "static-lens-collection": {
+      "type": "static-lens-collection",
+      "blocks": {
+        "836c6622-f633-446b-a5be-caf807d19308": {
+          "type": "item-1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Business_lens_Gray_3qtr.56.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Gray",
+            "link_text": "",
+            "link_url": "\/pages\/lenses#pleasure",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "3ea35824-0039-47be-a8e7-6204e3152311": {
+          "type": "item-1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Business_lens_Sepia_3qtr.64.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Sepia",
+            "link_text": "",
+            "link_url": "\/pages\/lenses#pleasure",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "36cbc251-5f79-4f9e-94c0-f3e1845f1d53": {
+          "type": "item-2",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pleasure_Lens_Gray_Polar_3qtr.95.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Gray",
+            "link_text": "",
+            "link_url": "\/pages\/lenses#pleasure",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "44f9f46e-c98a-431f-baa7-6dd00be3c465": {
+          "type": "item-2",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pleasure_Lens_Sepia_Polar_3qtr.84.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Sepia",
+            "link_text": "",
+            "link_url": "\/pages\/lenses#pleasure",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "836c6622-f633-446b-a5be-caf807d19308",
+        "3ea35824-0039-47be-a8e7-6204e3152311",
+        "36cbc251-5f79-4f9e-94c0-f3e1845f1d53",
+        "44f9f46e-c98a-431f-baa7-6dd00be3c465"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "title": "Standard Lenses",
+        "subheading": "Everyday use",
+        "title2": "Polarized Lenses",
+        "subheading2": "Water Sports | Outdoors",
+        "column_alignment": "center",
+        "mobile_item_size": "small",
+        "desktop_item_size": "small",
+        "spacing": "normal",
+        "background": "#ffffff",
+        "text_color": "#191919"
+      }
+    },
+    "076effdb-df1c-4179-8dd8-06d8681edc1c": {
+      "type": "static-lens-collection",
+      "blocks": {
+        "b15d25df-b4ac-4561-9631-c0165146229e": {
+          "type": "item-1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/business_copper_mirrored_3qtr.1014_51b99f56-21ac-4c89-b2b9-7bf57b25dd98.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Copper",
+            "link_text": "",
+            "link_url": "\/pages\/lenses#pleasure",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "d8f401df-a7bf-4f7f-897b-6978a785d1de": {
+          "type": "item-1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Business_lens_Obsidian_Plasmachromatic_3qtr.44.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Obsidian",
+            "link_text": "",
+            "link_url": "\/pages\/lenses#pleasure",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "78a207bc-8154-4da1-bc5e-e1fb5227c96b": {
+          "type": "item-2",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pleasure_Lens_Obsidian_Plasmachromatic_3qtr.72.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Obsidian<br>Coming Soon",
+            "link_text": "",
+            "link_url": "\/pages\/lenses#pleasure",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "b15d25df-b4ac-4561-9631-c0165146229e",
+        "d8f401df-a7bf-4f7f-897b-6978a785d1de",
+        "78a207bc-8154-4da1-bc5e-e1fb5227c96b"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "title": "Plasmachromatic Lenses",
+        "subheading": "Advanced Light Filtration System",
+        "title2": "Plasmachromatic Polarized",
+        "subheading2": "Plasma + Polar",
+        "column_alignment": "center",
+        "mobile_item_size": "small",
+        "desktop_item_size": "small",
+        "spacing": "normal",
+        "background": "#ffffff",
+        "text_color": "#191919"
+      }
+    },
+    "166200293690459eff": {
+      "type": "variant-collection",
+      "blocks": {
+        "1662002936712e91a5-0": {
+          "type": "variant-collection",
+          "settings": {
+            "product": "business",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "1662002936712e91a5-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "subheading": "Leisure",
+        "title": "Business",
+        "content": "",
+        "products_count": 8,
+        "products_per_row": 4,
+        "stack_products": true,
+        "show_cta": false,
+        "background": "#fbfbfb",
+        "text_color": "#000000",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "d5915d14-aaa1-461e-95aa-154e78361794": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/2160x1000_0007_Day-2_9579.jpg",
+        "title": "",
+        "title_mobile": "",
+        "subheading": "",
+        "subheading_mobile": "",
+        "content": "",
+        "panel_link": "",
+        "heading_font_size_desktop": 82,
+        "heading_font_size_mobile": 26,
+        "subheading_font_size_desktop": 30,
+        "subheading_font_size_mobile": 16,
+        "font_scale": "default",
+        "overlay_content_position": "middle-center",
+        "content_position_mobile": "none",
+        "nudge_text_x-axis_desktop": 0,
+        "nudge_text_y-axis_desktop": 0,
+        "nudge_text_x-axis_mobile": 0,
+        "nudge_text_y-axis_mobile": 0,
+        "text_align_desktop": "center",
+        "text_align_mobile": "center",
+        "heading_drop_shadow": false,
+        "heading_drop_shadow_x-offset": 0,
+        "heading_drop_shadow_y-offset": 3,
+        "heading_drop_shadow_color": "#000000",
+        "heading_drop_shadow_opacity": 16,
+        "nudge_subheading_y-axis_mobile": 0,
+        "nudge_subheading_y-axis_desktop": 0,
+        "remove_top_spacing": false,
+        "remove_bottom_spacing": false,
+        "max_width_container": false,
+        "background_type": "full_width",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "1657045016427725fc": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Business_MatBlk_transTurqWalrs2160x1080_copy.jpg",
+        "title": "LEISURE",
+        "title_mobile": "",
+        "subheading": "",
+        "subheading_mobile": "",
+        "content": "<p>Everyday Eyewear designed for open roads and mellow days.<\/p>",
+        "panel_link": "",
+        "heading_font_size_desktop": 82,
+        "heading_font_size_mobile": 26,
+        "subheading_font_size_desktop": 30,
+        "subheading_font_size_mobile": 16,
+        "font_scale": "default",
+        "overlay_content_position": "middle-center",
+        "content_position_mobile": "none",
+        "nudge_text_x-axis_desktop": 0,
+        "nudge_text_y-axis_desktop": 0,
+        "nudge_text_x-axis_mobile": 0,
+        "nudge_text_y-axis_mobile": 0,
+        "text_align_desktop": "center",
+        "text_align_mobile": "center",
+        "heading_drop_shadow": false,
+        "heading_drop_shadow_x-offset": 0,
+        "heading_drop_shadow_y-offset": 3,
+        "heading_drop_shadow_color": "#000000",
+        "heading_drop_shadow_opacity": 16,
+        "nudge_subheading_y-axis_mobile": 0,
+        "nudge_subheading_y-axis_desktop": 0,
+        "remove_top_spacing": false,
+        "remove_bottom_spacing": false,
+        "max_width_container": false,
+        "background_type": "full_width",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "main": {
+      "type": "main-list-collections",
+      "blocks": {
+        "accb61ff-dfc2-4aae-a658-ebf2c293dc43": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "accb61ff-dfc2-4aae-a658-ebf2c293dc43"
+      ],
+      "disabled": true,
+      "settings": {
+        "collections_to_show": "selected",
+        "show_collection_title": true
+      }
+    },
+    "165704614349662bd1": {
+      "type": "featured-collections",
+      "blocks": {
+        "16570461435ef01962-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "sunglasses",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "16570461435ef01962-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "subheading": "Leisure",
+        "use_impact": false,
+        "title": "PLEASURE",
+        "content": "",
+        "products_count": 8,
+        "products_per_row": 4,
+        "stack_products": false,
+        "show_cta": false,
+        "background": "#ffffff",
+        "text_color": "#000000",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16573189255e726d48": {
+      "type": "timeline",
+      "blocks": {
+        "1657318925fec2f8fb-0": {
+          "type": "item",
+          "settings": {
+            "label": "",
+            "title": "HYDRO",
+            "content": "<p>PRINTS<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "1657318925fec2f8fb-1": {
+          "type": "item",
+          "settings": {
+            "label": "",
+            "title": "CAMO",
+            "content": "<p>prints<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "1657318925fec2f8fb-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/manufacturing_video1_0.jpg",
+            "label": "",
+            "title": "SOLIDS",
+            "content": "<p>COLOR<\/p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657318925fec2f8fb-0",
+        "1657318925fec2f8fb-1",
+        "1657318925fec2f8fb-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "text_position": "middle",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "item_background": "rgba(0,0,0,0)",
+        "item_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16573194757d85d87c": {
+      "type": "featured-collections",
+      "blocks": {
+        "165731947555f1c0de-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "sunglasses",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "165731947555f1c0de-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "subheading": "LEISURE",
+        "use_impact": false,
+        "title": "BUSINESS",
+        "content": "",
+        "products_count": 8,
+        "products_per_row": 4,
+        "stack_products": false,
+        "show_cta": false,
+        "background": "#bfbfbf",
+        "text_color": "#000000",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1657320321031b92ed": {
+      "type": "featured-collections",
+      "blocks": {
+        "1657320321255a576d-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "place-holder-collection",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657320321255a576d-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "subheading": "Your title",
+        "use_impact": false,
+        "title": "Collection",
+        "content": "",
+        "products_count": 4,
+        "products_per_row": 4,
+        "stack_products": true,
+        "show_cta": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16585205940290ba28": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Business_MatBlk_transTurqWalrs2160x1080_copy.jpg",
+        "title": "RX",
+        "title_mobile": "",
+        "subheading": "Available in",
+        "subheading_mobile": "",
+        "content": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
+        "panel_link": "",
+        "heading_font_size_desktop": 82,
+        "heading_font_size_mobile": 26,
+        "subheading_font_size_desktop": 30,
+        "subheading_font_size_mobile": 16,
+        "font_scale": "default",
+        "overlay_content_position": "middle-center",
+        "content_position_mobile": "none",
+        "nudge_text_x-axis_desktop": 0,
+        "nudge_text_y-axis_desktop": 0,
+        "nudge_text_x-axis_mobile": 0,
+        "nudge_text_y-axis_mobile": 0,
+        "text_align_desktop": "center",
+        "text_align_mobile": "center",
+        "heading_drop_shadow": false,
+        "heading_drop_shadow_x-offset": 0,
+        "heading_drop_shadow_y-offset": 3,
+        "heading_drop_shadow_color": "#000000",
+        "heading_drop_shadow_opacity": 16,
+        "nudge_subheading_y-axis_mobile": 0,
+        "nudge_subheading_y-axis_desktop": 0,
+        "remove_top_spacing": false,
+        "remove_bottom_spacing": false,
+        "max_width_container": false,
+        "background_type": "full_width",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "165852067643b1b37d": {
+      "type": "featured-collections",
+      "blocks": {
+        "1658520676c35429ae-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "sunglasses",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "1658520676c35429ae-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "use_impact": false,
+        "title": "",
+        "content": "",
+        "products_count": 8,
+        "products_per_row": 4,
+        "stack_products": true,
+        "show_cta": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1659194976e155addd": {
+      "type": "collection-list",
+      "blocks": {
+        "1659194976d914844e-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "place-holder-collection",
+            "image": "shopify:\/\/shop_images\/1100x1400_placeholder.png",
+            "subheading": "Leisure",
+            "title": "BUSINESS BLACK",
+            "link_text": "buy",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "1659194976d914844e-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "1659194976d914844e-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "1659194976d914844e-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "1659194976d914844e-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "1659194976d914844e-5": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "1659194976d914844e-0",
+        "1659194976d914844e-1",
+        "1659194976d914844e-2",
+        "1659194976d914844e-3",
+        "1659194976d914844e-4",
+        "1659194976d914844e-5"
+      ],
+      "disabled": true,
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "carousel",
+        "subheading": "LEISURE",
+        "title": "BUSINESS",
+        "background": "#bfbfbf",
+        "text_color": "#000000"
+      }
+    },
+    "ce7922f5-03e9-4679-937e-f17ca0e41145": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16029444243606__ce7922f5-03e9-4679-937e-f17ca0e41145-16870589452ad38cbd-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/M_comparison_Business_Pleasure_Desktop.svg",
+            "mobile_image": "shopify:\/\/shop_images\/M_comparison_Business_Pleasure_Mobile.svg",
+            "title": "",
+            "title_mobile": "",
+            "subheading": "",
+            "subheading_mobile": "",
+            "panel_link": "",
+            "heading_font_size_desktop": 118,
+            "heading_font_size_mobile": 50,
+            "subheading_font_size_desktop": 22,
+            "subheading_font_size_mobile": 16,
+            "font_scale": "default",
+            "font_scale_subheading": "unset",
+            "overlay_content_position": "middle-center",
+            "content_position_mobile": "none",
+            "nudge_text_x-axis_desktop": 0,
+            "nudge_text_y-axis_desktop": 0,
+            "nudge_text_x-axis_mobile": 0,
+            "nudge_text_y-axis_mobile": 0,
+            "heading_drop_shadow": false,
+            "heading_drop_shadow_x-offset": 0,
+            "heading_drop_shadow_y-offset": 3,
+            "heading_drop_shadow_color": "#000000",
+            "heading_drop_shadow_opacity": 40,
+            "nudge_subheading_y-axis_mobile": 0,
+            "nudge_subheading_y-axis_desktop": 0,
+            "remove_top_spacing": false,
+            "remove_bottom_spacing": false,
+            "subheading_uppercase": false,
+            "subheading_border": false,
+            "subheading_border_padding": 16,
+            "max_width_container": false,
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--16029444243606__ce7922f5-03e9-4679-937e-f17ca0e41145-16870589452ad38cbd-0"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "323076ff-8d2f-456b-a8f6-746786b5340f",
+    "aa18ff9f-ede0-47f5-8a53-63d62c29047d",
+    "1661987067f4300c36",
+    "ec680da2-0d44-4265-bb68-d940f8df76fe",
+    "static-lens-collection",
+    "076effdb-df1c-4179-8dd8-06d8681edc1c",
+    "166200293690459eff",
+    "d5915d14-aaa1-461e-95aa-154e78361794",
+    "1657045016427725fc",
+    "main",
+    "165704614349662bd1",
+    "16573189255e726d48",
+    "16573194757d85d87c",
+    "1657320321031b92ed",
+    "16585205940290ba28",
+    "165852067643b1b37d",
+    "1659194976e155addd",
+    "ce7922f5-03e9-4679-937e-f17ca0e41145"
+  ]
+}

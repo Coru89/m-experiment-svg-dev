@@ -1,0 +1,86 @@
+// sass-lint:disable-all
+.frame-compare {
+  &__heading {
+    text-align: center;
+    font-size: clamp(42px, calc(5vw + 1rem), 90px);
+    @media screen and (min-width: 1000px) {
+      h3 {
+        font-size: clamp(50px, calc(7vw + 1rem), 90px);
+      }
+    }
+
+    @media screen and (min-width: 1400px) {
+      h3 {
+        font-size: clamp(50px, calc(10vw + 1rem), 90px);
+      }
+    }
+  }
+
+  &__title {
+    font-size: 36px;
+    font-weight: 300;
+    text-transform: uppercase;
+    margin-bottom: 0;
+
+    @media screen and (min-width: 740px) {
+      font-size: 38px;
+    }
+
+    @media screen and (min-width: 1200px) {
+      font-size: 42px;
+    }
+  }
+
+  &__list {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+  }
+
+
+  &__item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 6rem;
+
+    @media screen and (min-width: 1000px) {
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+    }
+  }
+
+  &__column {
+    text-align: center;
+
+    @media screen and (min-width: 1200px) {
+      align-items: center;
+      display: flex;
+      justify-content: space-evenly;
+      width: 66.66%;
+    }
+  }
+
+  &__specs {
+    font-size: 16px;
+    white-space: nowrap;
+
+    @media screen and (min-width: 420px) {
+      font-size: 18px;
+    }
+
+    @media screen and (min-width: 1000px) {
+      font-size: 20px;
+      white-space: nowrap;
+    }
+
+    @media screen and (min-width: 1200px) {
+      width: 33.33%;
+    }
+
+    @media screen and (min-width: 1400px) {
+      font-size: 22px;
+    }
+  }
+}

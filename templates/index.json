@@ -1,0 +1,717 @@
+{
+  "sections": {
+    "721c34b5-a7ae-41d9-a00d-a142fa6e734d": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16075967168662__721c34b5-a7ae-41d9-a00d-a142fa6e734d-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/home-banner.png",
+            "mobile_image": "shopify:\/\/shop_images\/M_Home_Page_Mobile_Header.png",
+            "title": "New\nBeginnings",
+            "title_mobile": "",
+            "subheading": "DNA DRIVEN",
+            "subheading_mobile": "",
+            "panel_link": "",
+            "heading_font_size_desktop": 118,
+            "heading_font_size_mobile": 22,
+            "subheading_font_size_desktop": 34,
+            "subheading_font_size_mobile": 16,
+            "font_scale": "default",
+            "font_scale_subheading": "unset",
+            "overlay_content_position": "middle-right",
+            "content_position_mobile": "none",
+            "nudge_text_x-axis_desktop": 0,
+            "nudge_text_y-axis_desktop": 0,
+            "nudge_text_x-axis_mobile": 0,
+            "nudge_text_y-axis_mobile": 0,
+            "heading_drop_shadow": false,
+            "heading_drop_shadow_x-offset": 0,
+            "heading_drop_shadow_y-offset": 3,
+            "heading_drop_shadow_color": "#000000",
+            "heading_drop_shadow_opacity": 16,
+            "nudge_subheading_y-axis_mobile": 0,
+            "nudge_subheading_y-axis_desktop": -1,
+            "remove_top_spacing": false,
+            "remove_bottom_spacing": false,
+            "subheading_uppercase": false,
+            "subheading_border": false,
+            "subheading_border_padding": 16,
+            "max_width_container": true,
+            "text_color": "#cccccc",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--16075967168662__721c34b5-a7ae-41d9-a00d-a142fa6e734d-image-1"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "4dd61dff-09c6-42c4-ae22-4498aaea97d5": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16075967168662__4dd61dff-09c6-42c4-ae22-4498aaea97d5-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FirstBorn2Clean.png",
+            "mobile_image": "shopify:\/\/shop_images\/M_Homepage_Mobile_First_Born_No_Text.jpg",
+            "title": "The First born",
+            "title_mobile": "",
+            "subheading": "",
+            "subheading_mobile": "",
+            "panel_link": "",
+            "heading_font_size_desktop": 86,
+            "heading_font_size_mobile": 26,
+            "subheading_font_size_desktop": 30,
+            "subheading_font_size_mobile": 16,
+            "font_scale": "faster",
+            "font_scale_subheading": "unset",
+            "overlay_content_position": "top-center",
+            "content_position_mobile": "none",
+            "nudge_text_x-axis_desktop": 0,
+            "nudge_text_y-axis_desktop": -9,
+            "nudge_text_x-axis_mobile": 0,
+            "nudge_text_y-axis_mobile": -15,
+            "heading_drop_shadow": true,
+            "heading_drop_shadow_x-offset": 0,
+            "heading_drop_shadow_y-offset": 3,
+            "heading_drop_shadow_color": "#000000",
+            "heading_drop_shadow_opacity": 16,
+            "nudge_subheading_y-axis_mobile": 0,
+            "nudge_subheading_y-axis_desktop": -2,
+            "remove_top_spacing": false,
+            "remove_bottom_spacing": false,
+            "subheading_uppercase": false,
+            "subheading_border": false,
+            "subheading_border_padding": 16,
+            "max_width_container": false,
+            "text_color": "#c7c7c7",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--16075967168662__4dd61dff-09c6-42c4-ae22-4498aaea97d5-image-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "1b7d422d-5ae4-4b54-99fa-4979dc6ba72d": {
+      "type": "business-or-pleasure",
+      "blocks": {
+        "3a6b43e7-a39e-4757-a781-33b49528fb59": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/M_Amethyst_Homepage_Slider_Desktop__NoCopy.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/M_Amethyst_Homepage_Slider_Mobile_NoCopy.jpg",
+            "title": "Pick &nbsp;your&nbsp; poison",
+            "title_mobile": "Pick Your\nPoison",
+            "subheading": "New Release | Amethyst",
+            "subheading_mobile": "",
+            "left_link_text": "Business",
+            "left_link": "shopify:\/\/pages\/business",
+            "right_link_text": "Pleasure",
+            "right_link": "shopify:\/\/pages\/pleasure",
+            "heading_font_size_desktop": 170,
+            "heading_font_size_mobile": 44,
+            "subheading_font_size_desktop": 42,
+            "subheading_font_size_mobile": 16,
+            "font_scale": "slower",
+            "font_scale_subheading": "slower",
+            "overlay_content_position": "top-center",
+            "content_position_mobile": "none",
+            "nudge_text_x-axis_desktop": 0,
+            "nudge_text_y-axis_desktop": -9,
+            "nudge_text_x-axis_mobile": 0,
+            "nudge_text_y-axis_mobile": -3,
+            "nudge_left_text_x-axis_desktop": 18,
+            "nudge_left_text_y-axis_desktop": 27,
+            "nudge_left_text_x-axis_mobile": 8,
+            "nudge_left_text_y-axis_mobile": 29.5,
+            "nudge_right_text_x-axis_desktop": 16,
+            "nudge_right_text_y-axis_desktop": 27,
+            "nudge_right_text_x-axis_mobile": 8,
+            "nudge_right_text_y-axis_mobile": 29.5,
+            "heading_drop_shadow": false,
+            "heading_drop_shadow_x-offset": 0,
+            "heading_drop_shadow_y-offset": 3,
+            "heading_drop_shadow_color": "#000000",
+            "heading_drop_shadow_opacity": 40,
+            "nudge_subheading_y-axis_mobile": -0.5,
+            "nudge_subheading_y-axis_desktop": -1,
+            "remove_top_spacing": false,
+            "remove_bottom_spacing": false,
+            "subheading_uppercase": true,
+            "subheading_border": false,
+            "subheading_border_padding": 16,
+            "max_width_container": false,
+            "text_color": "#aaaaaa",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "3a6b43e7-a39e-4757-a781-33b49528fb59"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "86b8abd7-aa0d-45c3-9e3f-ed526d649428": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16075967430806__86b8abd7-aa0d-45c3-9e3f-ed526d649428-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/M_Amethyst_Homepage_Slider_Desktop.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/M_Amethyst_Homepage_Slider_Mobile.jpg",
+            "title": "",
+            "title_mobile": "",
+            "subheading": "",
+            "subheading_mobile": "",
+            "panel_link": "",
+            "heading_font_size_desktop": 216,
+            "heading_font_size_mobile": 52,
+            "subheading_font_size_desktop": 38,
+            "subheading_font_size_mobile": 14,
+            "font_scale": "slower",
+            "font_scale_subheading": "unset",
+            "overlay_content_position": "top-left",
+            "content_position_mobile": "top-left",
+            "nudge_text_x-axis_desktop": 3,
+            "nudge_text_y-axis_desktop": -13,
+            "nudge_text_x-axis_mobile": 9,
+            "nudge_text_y-axis_mobile": -7,
+            "heading_drop_shadow": true,
+            "heading_drop_shadow_x-offset": 0,
+            "heading_drop_shadow_y-offset": 3,
+            "heading_drop_shadow_color": "#000000",
+            "heading_drop_shadow_opacity": 40,
+            "nudge_subheading_y-axis_mobile": -0.5,
+            "nudge_subheading_y-axis_desktop": -1,
+            "remove_top_spacing": false,
+            "remove_bottom_spacing": false,
+            "subheading_uppercase": false,
+            "subheading_border": false,
+            "subheading_border_padding": 16,
+            "max_width_container": false,
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--16075967430806__86b8abd7-aa0d-45c3-9e3f-ed526d649428-image-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "7db9d82d-3a91-473c-8e4e-d2b314bb15b7": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16075967168662__7db9d82d-3a91-473c-8e4e-d2b314bb15b7-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/M_Business_DT.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/M_Business_Mobile.jpg",
+            "title": "Business",
+            "title_mobile": "",
+            "subheading": "",
+            "subheading_mobile": "",
+            "panel_link": "shopify:\/\/pages\/business",
+            "heading_font_size_desktop": 68,
+            "heading_font_size_mobile": 28,
+            "subheading_font_size_desktop": 22,
+            "subheading_font_size_mobile": 16,
+            "font_scale": "faster",
+            "font_scale_subheading": "unset",
+            "overlay_content_position": "middle-center",
+            "content_position_mobile": "middle-right",
+            "nudge_text_x-axis_desktop": 1,
+            "nudge_text_y-axis_desktop": -10,
+            "nudge_text_x-axis_mobile": -7,
+            "nudge_text_y-axis_mobile": -4,
+            "heading_drop_shadow": true,
+            "heading_drop_shadow_x-offset": 0,
+            "heading_drop_shadow_y-offset": 3,
+            "heading_drop_shadow_color": "#000000",
+            "heading_drop_shadow_opacity": 40,
+            "nudge_subheading_y-axis_mobile": 0,
+            "nudge_subheading_y-axis_desktop": -2,
+            "remove_top_spacing": false,
+            "remove_bottom_spacing": true,
+            "subheading_uppercase": false,
+            "subheading_border": false,
+            "subheading_border_padding": 16,
+            "max_width_container": false,
+            "text_color": "#aaaaaa",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--16075967168662__7db9d82d-3a91-473c-8e4e-d2b314bb15b7-image-1"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "ae956d73-dcdf-469f-987f-68b84744382b": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16075967168662__ae956d73-dcdf-469f-987f-68b84744382b-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/M_Pleasure_DT.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/M_Pleasure_Mobile.jpg",
+            "title": "Pleasure",
+            "title_mobile": "",
+            "subheading": "",
+            "subheading_mobile": "",
+            "panel_link": "shopify:\/\/pages\/pleasure",
+            "heading_font_size_desktop": 68,
+            "heading_font_size_mobile": 28,
+            "subheading_font_size_desktop": 22,
+            "subheading_font_size_mobile": 16,
+            "font_scale": "faster",
+            "font_scale_subheading": "unset",
+            "overlay_content_position": "middle-center",
+            "content_position_mobile": "middle-right",
+            "nudge_text_x-axis_desktop": 1,
+            "nudge_text_y-axis_desktop": -14,
+            "nudge_text_x-axis_mobile": -7,
+            "nudge_text_y-axis_mobile": -12,
+            "heading_drop_shadow": true,
+            "heading_drop_shadow_x-offset": 0,
+            "heading_drop_shadow_y-offset": 3,
+            "heading_drop_shadow_color": "#000000",
+            "heading_drop_shadow_opacity": 40,
+            "nudge_subheading_y-axis_mobile": 0,
+            "nudge_subheading_y-axis_desktop": -2,
+            "remove_top_spacing": true,
+            "remove_bottom_spacing": true,
+            "subheading_uppercase": false,
+            "subheading_border": false,
+            "subheading_border_padding": 16,
+            "max_width_container": false,
+            "text_color": "#aaaaaa",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--16075967168662__ae956d73-dcdf-469f-987f-68b84744382b-image-1"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "#000000"
+      }
+    },
+    "6e83d562-a578-4e20-bb33-e2bfe4224d96": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16075967168662__6e83d562-a578-4e20-bb33-e2bfe4224d96-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/M_Giga_DT.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/M_Giga_Mobile.jpg",
+            "title": "Gigawatt",
+            "title_mobile": "",
+            "subheading": "",
+            "subheading_mobile": "",
+            "panel_link": "shopify:\/\/pages\/gigawatt",
+            "heading_font_size_desktop": 68,
+            "heading_font_size_mobile": 28,
+            "subheading_font_size_desktop": 22,
+            "subheading_font_size_mobile": 16,
+            "font_scale": "faster",
+            "font_scale_subheading": "unset",
+            "overlay_content_position": "middle-center",
+            "content_position_mobile": "middle-right",
+            "nudge_text_x-axis_desktop": 1,
+            "nudge_text_y-axis_desktop": -10,
+            "nudge_text_x-axis_mobile": -7,
+            "nudge_text_y-axis_mobile": -7,
+            "heading_drop_shadow": true,
+            "heading_drop_shadow_x-offset": 0,
+            "heading_drop_shadow_y-offset": 3,
+            "heading_drop_shadow_color": "rgba(0,0,0,0)",
+            "heading_drop_shadow_opacity": 40,
+            "nudge_subheading_y-axis_mobile": 0,
+            "nudge_subheading_y-axis_desktop": -2,
+            "remove_top_spacing": true,
+            "remove_bottom_spacing": false,
+            "subheading_uppercase": false,
+            "subheading_border": false,
+            "subheading_border_padding": 16,
+            "max_width_container": false,
+            "text_color": "#aaaaaa",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--16075967168662__6e83d562-a578-4e20-bb33-e2bfe4224d96-image-1"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "902eac69-e85d-4dbd-908b-b9534c086cbf": {
+      "type": "video-new",
+      "settings": {
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/f1d320d346554016a52a140849db0135.mp4",
+        "image": "shopify:\/\/shop_images\/Experiments.jpg"
+      }
+    },
+    "fcf2f9d8-0831-413b-8d0c-74c8163cac6b": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16071078969494__fcf2f9d8-0831-413b-8d0c-74c8163cac6b-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/M_Whats_Next_Desktop_01_No_Copy_3ea6cab6-0b57-45be-a840-e4f513319ccf.png",
+            "mobile_image": "shopify:\/\/shop_images\/M_Whats_Next_Mobile_01_No_Copy.png",
+            "title": "The\nRelentless\nPursuit\nof fun",
+            "title_mobile": "",
+            "subheading": "JOHN JOHN FLORENCE",
+            "subheading_mobile": "",
+            "panel_link": "",
+            "heading_font_size_desktop": 160,
+            "heading_font_size_mobile": 38,
+            "subheading_font_size_desktop": 48,
+            "subheading_font_size_mobile": 18,
+            "font_scale": "default",
+            "font_scale_subheading": "slower",
+            "overlay_content_position": "top-left",
+            "content_position_mobile": "middle-left",
+            "nudge_text_x-axis_desktop": 6,
+            "nudge_text_y-axis_desktop": -8,
+            "nudge_text_x-axis_mobile": 6,
+            "nudge_text_y-axis_mobile": 0,
+            "heading_drop_shadow": false,
+            "heading_drop_shadow_x-offset": 0,
+            "heading_drop_shadow_y-offset": 3,
+            "heading_drop_shadow_color": "#000000",
+            "heading_drop_shadow_opacity": 40,
+            "nudge_subheading_y-axis_mobile": 0,
+            "nudge_subheading_y-axis_desktop": -0.5,
+            "remove_top_spacing": false,
+            "remove_bottom_spacing": false,
+            "subheading_uppercase": false,
+            "subheading_border": true,
+            "subheading_border_padding": 12,
+            "max_width_container": false,
+            "text_color": "#c7c7c7",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--16071078969494__fcf2f9d8-0831-413b-8d0c-74c8163cac6b-image-1"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "1942814f-e5ac-48e7-9259-fa56018a4ae7": {
+      "type": "video-new",
+      "settings": {
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/423f5a3513e54aee95c289a2730b1025.mp4"
+      }
+    },
+    "94bd7d29-ec02-4ece-98b1-c7fceea5d968": {
+      "type": "image-with-large-text-overlay",
+      "blocks": {
+        "template--16075967168662__94bd7d29-ec02-4ece-98b1-c7fceea5d968-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/M_Whats_Next_Desktop_fefa1da1-6d34-4e07-9f02-f3211956d445.png",
+            "mobile_image": "shopify:\/\/shop_images\/M_Whats_Next_Mobile_b067b6e9-d5a2-43b5-ba7e-d29ba45b959b.png",
+            "title": "What's Next?",
+            "title_mobile": "",
+            "subheading": "this is the beginning of the\nexperiment. there are many\ndesigns in the works that\nrange from mild to mars.\nno timetables...released\nwhen ready.",
+            "subheading_mobile": "this is the beginning of\nthe experiment. there are\nmany designs in the\nworks that range from\nmild to mars. no\ntimetables...released\nwhen ready.",
+            "heading_font_size_desktop": 160,
+            "heading_font_size_mobile": 40,
+            "subheading_font_size_desktop": 90,
+            "subheading_font_size_mobile": 20,
+            "overlay_content_position": "top-center",
+            "content_position_mobile": "none",
+            "nudge_text_x-axis_desktop": 0,
+            "nudge_text_y-axis_desktop": -11,
+            "nudge_text_x-axis_mobile": 0,
+            "nudge_text_y-axis_mobile": -5,
+            "heading_drop_shadow": false,
+            "heading_drop_shadow_x-offset": 0,
+            "heading_drop_shadow_y-offset": 3,
+            "heading_drop_shadow_color": "#000000",
+            "heading_drop_shadow_opacity": 40,
+            "nudge_subheading_y-axis_mobile": 1,
+            "nudge_subheading_y-axis_desktop": 1.5,
+            "remove_top_spacing": false,
+            "remove_bottom_spacing": false,
+            "subheading_uppercase": true,
+            "text_color": "#cccccc",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--16075967168662__94bd7d29-ec02-4ece-98b1-c7fceea5d968-image-1"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Skate_ea852f8d-a712-4f46-8088-c03cde1538ef.jpg",
+            "subheading": "",
+            "title": "",
+            "link_text": "",
+            "link_url": "shopify:\/\/pages\/stuff",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/MEX0007-Beauty-Shots13783.jpg",
+            "subheading": "",
+            "title": "APPAREL",
+            "link_text": "Explore",
+            "link_url": "\/pages\/stuff\/#apparel",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/MEX0007-Beauty-Shots13783_copy.png",
+            "subheading": "",
+            "title": "HEADWEAR",
+            "link_text": "Explore",
+            "link_url": "\/pages\/stuff\/#headwear",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "collection-1",
+        "collection-3",
+        "collection-2"
+      ],
+      "custom_css": [
+        "h2.heading {margin-bottom: 16px;}",
+        "h3.heading.heading--small {font-family: \"Helvetica Neue Thin\"; font-weight: 400;}"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "collage",
+        "subheading": "IN WITH THE NEW",
+        "title": "STUFF",
+        "background": "#fbfbfb",
+        "text_color": "#191919"
+      }
+    },
+    "e68a84ea-1ba9-4b45-912b-1d53785353aa": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15613256990870__e68a84ea-1ba9-4b45-912b-1d53785353aa-16679634112a5ab8f7-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Website_Golf_Desktop.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Website_Golf_Mobile.jpg",
+            "title": "",
+            "title_mobile": "",
+            "subheading": "",
+            "subheading_mobile": "",
+            "panel_link": "",
+            "heading_font_size_desktop": 40,
+            "heading_font_size_mobile": 26,
+            "subheading_font_size_desktop": 16,
+            "subheading_font_size_mobile": 16,
+            "font_scale": "default",
+            "font_scale_subheading": "unset",
+            "overlay_content_position": "middle-center",
+            "content_position_mobile": "none",
+            "nudge_text_x-axis_desktop": 0,
+            "nudge_text_y-axis_desktop": 0,
+            "nudge_text_x-axis_mobile": 0,
+            "nudge_text_y-axis_mobile": 0,
+            "heading_drop_shadow": false,
+            "heading_drop_shadow_x-offset": 10,
+            "heading_drop_shadow_y-offset": 10,
+            "heading_drop_shadow_color": "#ffffff",
+            "heading_drop_shadow_opacity": 0,
+            "nudge_subheading_y-axis_mobile": 0,
+            "nudge_subheading_y-axis_desktop": 0,
+            "remove_top_spacing": false,
+            "remove_bottom_spacing": false,
+            "subheading_uppercase": false,
+            "subheading_border": false,
+            "subheading_border_padding": 16,
+            "max_width_container": false,
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--15613256990870__e68a84ea-1ba9-4b45-912b-1d53785353aa-16679634112a5ab8f7-0"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "16592452799ea4ed39": {
+      "type": "apps",
+      "blocks": {
+        "4a9151ec-f09b-40a9-927b-97405fb8e17d": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "4a9151ec-f09b-40a9-927b-97405fb8e17d"
+      ],
+      "disabled": true,
+      "settings": {
+        "include_horizontal_margins": false,
+        "include_vertical_margins": false
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "custom_css": [
+        "h2.heading {font-family: \"Helvetica Neue\"; font-size: 24px; font-weight: 400;}"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "image": "shopify:\/\/shop_images\/skate_wide_8e0bb17b-f624-4039-aad8-f40a17ec76b3.jpg",
+        "subheading": "Follow M-Experiment",
+        "content": "<p>New products and adventures.                      Straight to your inbox.<\/p>",
+        "text_position": "left",
+        "text_alignment": "left",
+        "text_background": "#191919",
+        "text_color": "#fbfbfb",
+        "button_background": "#e2a829",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "721c34b5-a7ae-41d9-a00d-a142fa6e734d",
+    "4dd61dff-09c6-42c4-ae22-4498aaea97d5",
+    "1b7d422d-5ae4-4b54-99fa-4979dc6ba72d",
+    "86b8abd7-aa0d-45c3-9e3f-ed526d649428",
+    "7db9d82d-3a91-473c-8e4e-d2b314bb15b7",
+    "ae956d73-dcdf-469f-987f-68b84744382b",
+    "6e83d562-a578-4e20-bb33-e2bfe4224d96",
+    "902eac69-e85d-4dbd-908b-b9534c086cbf",
+    "fcf2f9d8-0831-413b-8d0c-74c8163cac6b",
+    "1942814f-e5ac-48e7-9259-fa56018a4ae7",
+    "94bd7d29-ec02-4ece-98b1-c7fceea5d968",
+    "collection-list",
+    "e68a84ea-1ba9-4b45-912b-1d53785353aa",
+    "16592452799ea4ed39",
+    "newsletter"
+  ]
+}

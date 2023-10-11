@@ -1,0 +1,1106 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "large"
+      }
+    },
+    "7c397d8b-4535-435d-a70f-4a09d1f10ae7": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16075967168662__7c397d8b-4535-435d-a70f-4a09d1f10ae7-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/M_Tech_Page_Header_Desktop_Nocopy.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/M_Tech_Page_Header_Mobile_Nocopy.jpg",
+            "title": "M-Technology",
+            "title_mobile": "",
+            "subheading": "THE MOST ADVANCED MATERIALS WITH A DASH OF MAD SCIENCE",
+            "subheading_mobile": "",
+            "panel_link": "",
+            "heading_font_size_desktop": 118,
+            "heading_font_size_mobile": 32,
+            "subheading_font_size_desktop": 22,
+            "subheading_font_size_mobile": 16,
+            "font_scale": "default",
+            "font_scale_subheading": "default",
+            "overlay_content_position": "middle-center",
+            "content_position_mobile": "none",
+            "nudge_text_x-axis_desktop": 0,
+            "nudge_text_y-axis_desktop": 0,
+            "nudge_text_x-axis_mobile": 0,
+            "nudge_text_y-axis_mobile": 0,
+            "heading_drop_shadow": false,
+            "heading_drop_shadow_x-offset": 0,
+            "heading_drop_shadow_y-offset": 3,
+            "heading_drop_shadow_color": "#000000",
+            "heading_drop_shadow_opacity": 16,
+            "nudge_subheading_y-axis_mobile": 0,
+            "nudge_subheading_y-axis_desktop": 0,
+            "remove_top_spacing": false,
+            "remove_bottom_spacing": false,
+            "subheading_uppercase": false,
+            "subheading_border": false,
+            "subheading_border_padding": 16,
+            "max_width_container": true,
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--16075967168662__7c397d8b-4535-435d-a70f-4a09d1f10ae7-image-1"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "2c979ee6-673b-4b74-aa6c-9208ec62a8e1": {
+      "type": "rich-text",
+      "custom_css": [
+        ".vertical-breather {padding-bottom: 50px;}",
+        "h3 {font-size: clamp(50px, 5vw + 1rem, 90px);}",
+        "@media screen and (min-width: 1000px) {h3 {font-size: clamp(50px, 7vw + 1rem, 90px); }}",
+        "@media screen and (min-width: 1400px) {h3 {font-size: clamp(50px, 10vw + 1rem, 90px); }}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "M-Tech Overview",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "fill",
+        "text_position": "center",
+        "text_alignment": "center",
+        "remove_top_spacing": true,
+        "remove_bottom_spacing": true,
+        "background": "#ffffff",
+        "text_color": "#6b6b6b",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "bfde50f9-1a96-47a9-a50a-eddd33fa45ff": {
+      "type": "multi-column",
+      "blocks": {
+        "template--16013649903766__bfde50f9-1a96-47a9-a50a-eddd33fa45ff-16863764570322dd55-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lens_Geometry.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Lens Geometry",
+            "title_impact": "",
+            "content": "The optical design of the base curve lens is AI enhanced 3-axis optical correction for prismatic power.  This is coupled with custom blended optical grade materials for ultimate clarity and reduced internal haze, along with Thermo Carbon impact resistance for eye protection.",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--16013649903766__bfde50f9-1a96-47a9-a50a-eddd33fa45ff-16863764570322dd55-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/plasmachromatic.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "PLASMACHROMATIC",
+            "title_impact": "",
+            "content": "Multi-layer coatings using an assortment of exotic materials.  These precision coatings reflect light, reducing glare and eye strain.",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--16013649903766__bfde50f9-1a96-47a9-a50a-eddd33fa45ff-16863764570322dd55-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/eye_fence.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "EYE FENCE",
+            "title_impact": "",
+            "content": "Thermo Carbon backed impact resistant lenses protect your eyes from flying debris, UV rays, and other hazards.",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--16013649903766__bfde50f9-1a96-47a9-a50a-eddd33fa45ff-16863764570322dd55-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/res.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "RES+",
+            "title_impact": "",
+            "content": "Ultra-definition optical clarity reduces distortion and offers a wide field of view, creating a superior optical experience.",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "86b0c99b-9763-442e-946a-9511b1b184ff": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/polarized.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "POLARIZED",
+            "title_impact": "",
+            "content": "High-performance polarized lenses block 99.9% of reflective glare for the most vivid and detailed visual experiences.",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "template--16013649903766__bfde50f9-1a96-47a9-a50a-eddd33fa45ff-16863764570322dd55-0",
+        "template--16013649903766__bfde50f9-1a96-47a9-a50a-eddd33fa45ff-16863764570322dd55-1",
+        "template--16013649903766__bfde50f9-1a96-47a9-a50a-eddd33fa45ff-16863764570322dd55-2",
+        "template--16013649903766__bfde50f9-1a96-47a9-a50a-eddd33fa45ff-16863764570322dd55-3",
+        "86b0c99b-9763-442e-946a-9511b1b184ff"
+      ],
+      "custom_css": [
+        ".vertical-breather {padding-top: 0;}"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "",
+        "use_impact": false,
+        "title": "M-Lens Tech",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "large",
+        "desktop_item_size": "medium",
+        "spacing": "tight",
+        "remove_top_spacing": true,
+        "remove_bottom_spacing": true,
+        "background": "#ffffff",
+        "text_color": "#6b6b6b"
+      }
+    },
+    "fe014da0-6a33-405c-b4b7-9096fdd9915d": {
+      "type": "multi-column",
+      "blocks": {
+        "template--15950527692950__fe014da0-6a33-405c-b4b7-9096fdd9915d-1678578646af2fc2c9-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dct.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "DAUL CHAMBER INFUSION",
+            "title_impact": "",
+            "content": "A multi-stage mold process using fiberglass reinforced TR90 substrate parts in Gigawatt, resulting in a stiff chassis in and around the hinge while maintaining flexibility and skin feel in the nose and ear areas for comfort.",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--15950527692950__fe014da0-6a33-405c-b4b7-9096fdd9915d-1678578646af2fc2c9-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lc.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "LENS CLUTCH",
+            "title_impact": "",
+            "content": "Lens quick release system giving you the fastest, most secure method to switch lenses.",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "f6cfb63f-ee27-441a-a447-9749756525a1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rnp.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "RATCHETING NOSE PIECE",
+            "title_impact": "",
+            "content": "Adjustable nose piece system designed for different nose sizes and provides a secure, non-slip fit.",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "59921f5f-56b3-4a3c-9320-83117759f42c": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/slics.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "SLICS",
+            "title_impact": "",
+            "content": "Ear pads engineered with Atomic 14 providing maximum comfort and non-slip grip.",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "template--15950527692950__fe014da0-6a33-405c-b4b7-9096fdd9915d-1678578646af2fc2c9-0",
+        "template--15950527692950__fe014da0-6a33-405c-b4b7-9096fdd9915d-1678578646af2fc2c9-1",
+        "f6cfb63f-ee27-441a-a447-9749756525a1",
+        "59921f5f-56b3-4a3c-9320-83117759f42c"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".multi-column__image-wrapper img {max-height: 300px;}",
+        "@media screen and (min-width: 740px) {.multi-column__image-wrapper img {max-height: unset; }}"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "",
+        "use_impact": false,
+        "title": "M-Frame Technology",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "large",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "remove_top_spacing": false,
+        "remove_bottom_spacing": false,
+        "background": "#ffffff",
+        "text_color": "#6b6b6b"
+      }
+    },
+    "b94428e8-336a-4948-b3fb-06ee7f4aae6a": {
+      "type": "multi-column",
+      "blocks": {
+        "0dec8ebd-a0db-4cd9-98af-8bda847b08e4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/M_Carbon_01_a2916d47-46e8-4cd0-aa97-6f330c0d3214.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "M Carbon",
+            "title_impact": "",
+            "content": "Semitransparent polyamide proprietary frame material provides superior heat resistance and durability, in addition to exceptional strength and crack resistance.",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "51381037-47ad-485e-bdf4-a2af689aaa21": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Atomic_13_01_c31495c5-e71d-4696-bda8-c423496b145f.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Atomic 13",
+            "title_impact": "",
+            "content": "Carefully selected lightweight blend of Aluminum used in our M Icons.  Each is precisely blended providing toughness, lightness, and strength.",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--15950527692950__b94428e8-336a-4948-b3fb-06ee7f4aae6a-167934661874a785d6-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/thermo_carbon_bbbc0272-c5f6-4efd-89ac-a162de721c2c.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Thermo Carbon",
+            "title_impact": "",
+            "content": "Lens material consisting of submicroscopic polymer chains delivers proven impact resistance, maximum optical clarity, and superior lens durability.",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--15950527692950__b94428e8-336a-4948-b3fb-06ee7f4aae6a-167934661874a785d6-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/atomic_14_c4664dcb-a1e8-4a60-b9e1-1983ce7b56fb.png",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "ATOMIC 14",
+            "title_impact": "",
+            "content": "Silicone polymer material used in our Slics, delivering a high comfort, non-slip grip capable of anchoring your eyewear to your face with maximum comfort.",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "0dec8ebd-a0db-4cd9-98af-8bda847b08e4",
+        "51381037-47ad-485e-bdf4-a2af689aaa21",
+        "template--15950527692950__b94428e8-336a-4948-b3fb-06ee7f4aae6a-167934661874a785d6-0",
+        "template--15950527692950__b94428e8-336a-4948-b3fb-06ee7f4aae6a-167934661874a785d6-1"
+      ],
+      "custom_css": [
+        ".multi-column__image-wrapper img {max-height: 300px;}",
+        "@media screen and (min-width: 740px) {.multi-column__image-wrapper img {max-height: unset; }}",
+        ".vertical-breather {padding-top: 0;}"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "",
+        "use_impact": false,
+        "title": "M-Materials",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "large",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "remove_top_spacing": true,
+        "remove_bottom_spacing": false,
+        "background": "#ffffff",
+        "text_color": "#6b6b6b"
+      }
+    },
+    "ceb17ac0-fbaa-45b9-b438-a9694758bd82": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/M_Tech_Page_Desktop_Gigawatt_3_8123024f-15b5-4e34-86ec-e601d061af11.png",
+        "title": "Gigawatt",
+        "title_mobile": "",
+        "subheading": "",
+        "subheading_mobile": "",
+        "content": "",
+        "panel_link": "",
+        "heading_font_size_desktop": 118,
+        "heading_font_size_mobile": 40,
+        "subheading_font_size_desktop": 22,
+        "subheading_font_size_mobile": 16,
+        "font_scale": "default",
+        "overlay_content_position": "top-center",
+        "content_position_mobile": "none",
+        "nudge_text_x-axis_desktop": 0,
+        "nudge_text_y-axis_desktop": 0,
+        "nudge_text_x-axis_mobile": 0,
+        "nudge_text_y-axis_mobile": 0,
+        "text_align_desktop": "center",
+        "text_align_mobile": "center",
+        "heading_drop_shadow": false,
+        "heading_drop_shadow_x-offset": 0,
+        "heading_drop_shadow_y-offset": 3,
+        "heading_drop_shadow_color": "#000000",
+        "heading_drop_shadow_opacity": 40,
+        "nudge_subheading_y-axis_mobile": 0,
+        "nudge_subheading_y-axis_desktop": -2,
+        "remove_top_spacing": false,
+        "remove_bottom_spacing": true,
+        "max_width_container": false,
+        "background_type": "full_width",
+        "text_color": "#6b6b6b",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "7b4de6a6-15a3-4cf6-ab2d-d9894c2aa7cd": {
+      "type": "rich-text-scroll",
+      "blocks": {
+        "2e5574b8-7449-44ff-9ad2-5f8ce8f0a3d4": {
+          "type": "image",
+          "settings": {
+            "mobile_image": "shopify:\/\/shop_images\/M_Gigawatt_Mobile_A.svg"
+          }
+        },
+        "619f65f2-2271-4bcd-91d0-a3f3d9b5239f": {
+          "type": "image",
+          "settings": {
+            "mobile_image": "shopify:\/\/shop_images\/M_Gigawatt_Mobile_B.svg"
+          }
+        }
+      },
+      "block_order": [
+        "2e5574b8-7449-44ff-9ad2-5f8ce8f0a3d4",
+        "619f65f2-2271-4bcd-91d0-a3f3d9b5239f"
+      ],
+      "custom_css": [
+        ".vertical-breather {padding-bottom: 0;}",
+        "h3 {text-transform: uppercase; font-size: 26px; margin-bottom: 0.5rem; font-family: \"Helvetica Neue Thin\", var(--text-font-family);}",
+        "@media screen and (min-width: 750px) {h3 {text-align: left; font-size: 32px; font-weight: 300; margin-bottom: 1rem; }}",
+        "li {font-size: 18px; margin: 0; padding: 0;}",
+        "@media screen and (min-width: 750px) {li {font-size: 20px; }}",
+        "ul {text-align: left;}"
+      ],
+      "settings": {
+        "title": "Gigawatt",
+        "subheading": "",
+        "content": "<h3>Lens Technology<\/h3><ul><li>Lens Geometry: AI assisted 3 axis correction for prismatic distortion and refractive power.<\/li><li>Plasmachromatic: Precision coatings reflect light, reducing glare and eye strain.<\/li><li>Polarized: High-performance coating blocking 99.9% of reflective glare.<\/li><li>Eye Fence: Impact resistance for maximum eye protection.<\/li><li> Res+: Ultra-definition optical clarity reducing distortion while offering a wider field of view.<\/li><\/ul><h3>Materials<\/h3><ul><li>M Carbon: Proprietary frame material providing superior heat resistance and durability.<\/li><li>Thermo Carbon: Delivers proven impact resistance, maximum optical clarity and durability.<\/li><li>Atomic 14: Smooth silicone delivering high comfort and non-slip grip.<\/li><\/ul>",
+        "image": "shopify:\/\/shop_images\/Gigawatt_Callout_Destop.svg",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "heading_font_size_desktop": 118,
+        "heading_font_size_mobile": 40,
+        "subheading_font_size_desktop": 22,
+        "subheading_font_size_mobile": 16,
+        "text_position": "center",
+        "text_alignment": "center",
+        "remove_top_spacing": false,
+        "remove_bottom_spacing": true,
+        "background": "#ffffff",
+        "text_color": "#6b6b6b",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000"
+      }
+    },
+    "867df809-77d4-4790-a98d-372e5b2ca373": {
+      "type": "rich-text-image",
+      "disabled": true,
+      "custom_css": [
+        ".vertical-breather {padding-bottom: 0;}",
+        "h3 {text-transform: uppercase; font-size: 26px; margin-bottom: 0.5rem; font-family: \"Helvetica Neue Thin\", var(--text-font-family);}",
+        "@media screen and (min-width: 750px) {h3 {text-align: left; font-size: 32px; font-weight: 300; margin-bottom: 1rem; }}",
+        "li {font-size: 18px; margin: 0; padding: 0;}",
+        "@media screen and (min-width: 750px) {li {font-size: 20px; }}",
+        "ul {text-align: left;}"
+      ],
+      "settings": {
+        "title": "Gigawatt",
+        "subheading": "",
+        "content": "<h3>Lens Technology<\/h3><ul><li>Lens Geometry: AI assisted 3 axis correction for prismatic distortion and refractive power.<\/li><li>Plasma (Plasmachromatic): Precision coatings reflect light, reducing glare and eye strain.<\/li><li>Polarized: High-performance coating blocking 99.9% of reflective glare.<\/li><li>Eye Fence: Impact resistance for maximum eye protection.<\/li><li> Res+: Ultra-definition optical clarity reducing distortion while offering a wider field of view.<\/li><\/ul><h3>Materials<\/h3><ul><li>M Carbon: Proprietary frame material providing superior heat resistance and durability.<\/li><li>Atomic 13: Blended Aluminum used for toughness, lightness, and strength.<\/li><li>Thermo Carbon: Delivers proven impact resistance, maximum optical clarity and durability.<\/li><li>Atomic 14: Smooth silicone delivering high comfort and non-slip grip.<\/li><\/ul>",
+        "image": "shopify:\/\/shop_images\/M_Tech_Page_Desktop_Gigawatt_New.jpg",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "heading_font_size_desktop": 118,
+        "heading_font_size_mobile": 50,
+        "subheading_font_size_desktop": 22,
+        "subheading_font_size_mobile": 16,
+        "text_position": "center",
+        "text_alignment": "center",
+        "remove_top_spacing": false,
+        "remove_bottom_spacing": true,
+        "background": "#ffffff",
+        "text_color": "#6b6b6b",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "7dbe9f48-ac28-4c45-b40a-b87015168b00": {
+      "type": "rich-text",
+      "disabled": true,
+      "custom_css": [
+        ".vertical-breather {padding-top: 0;}",
+        "h3 {text-transform: uppercase; font-size: 26px; margin-bottom: 0.5rem;}",
+        "@media screen and (min-width: 750px) {h3 {font-size: 32px; margin-bottom: 1rem; }}",
+        "li {font-size: 18px; margin: 0; padding: 0;}",
+        "@media screen and (min-width: 750px) {li {font-size: 26px; }}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<h3>Lens Technology<\/h3><ul><li>Lens Geometry: Ai assisted 3 axis correction for prismatic distortion and refractive power.<\/li><li>Plasma (Plasmachromatic): Precision coatings reflect light, reducing glare and eye strain.<\/li><li>Polarized: High- performance coating blocking 99.9% of reflective glare.<\/li><li>Eye Fence: Impact resistance for maximum eye protection.<\/li><li> Res+: Ultra-Definition optical clarity reducing distortion while offering a wider field of view.<\/li><\/ul><h3>Materials<\/h3><ul><li>M Carbon: Proprietary frame material providing superior heat resistance and durability.<\/li><li>Atomic 13: Blended Aluminum used for toughness, lightness, and strength.<\/li><li>Thermo Carbon: Delivers proven impact resistance, maximum optical clarity and durability.<\/li><li>Atomic 14: Smooth silicone delivering high comfort and non-slip grip.<\/li><\/ul>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "left",
+        "remove_top_spacing": true,
+        "remove_bottom_spacing": false,
+        "background": "#ffffff",
+        "text_color": "#6b6b6b",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "3f84c371-f546-4f31-9b3f-6d062ab35bfb": {
+      "type": "rich-text",
+      "custom_css": [
+        ".vertical-breather {padding-bottom: 30px;}",
+        "@media screen and (min-width: 740px) {.vertical-breather {padding-bottom: 50px; }}",
+        "h3 {font-size: clamp(42px, 5vw + 1rem, 90px);}",
+        "@media screen and (min-width: 1000px) {h3 {font-size: clamp(42px, 7vw + 1rem, 90px); }}",
+        "@media screen and (min-width: 1400px) {h3 {font-size: clamp(42px, 10vw + 1rem, 90px); }}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "Frame technology",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "fill",
+        "text_position": "center",
+        "text_alignment": "center",
+        "remove_top_spacing": true,
+        "remove_bottom_spacing": true,
+        "background": "#ffffff",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "f692ea7a-b838-480d-ac3b-fecda68d3a83": {
+      "type": "rich-text-image",
+      "custom_css": [
+        ".vertical-breather {padding-top: 0; padding-bottom: 0;}",
+        ".heading {font-weight: 300; font-family: \"Helvetica Neue Thin\", var(--text-font-family);}"
+      ],
+      "settings": {
+        "title": "DUAL CHAMBER INFUSION",
+        "subheading": "A multi-stage mold process using fiberglass reinforced parts in Gigawatt, resulting in a stiff chassis in and around the hinge while maintaining flexibility and skin feel in the nose and ear areas for comfort.",
+        "content": "",
+        "image": "shopify:\/\/shop_images\/dual_chamber_40b09a41-596f-406d-b4d5-565b0ff172cc.png",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "heading_font_size_desktop": 48,
+        "heading_font_size_mobile": 26,
+        "subheading_font_size_desktop": 22,
+        "subheading_font_size_mobile": 16,
+        "text_position": "center",
+        "text_alignment": "center",
+        "remove_top_spacing": true,
+        "remove_bottom_spacing": true,
+        "background": "#ffffff",
+        "text_color": "#6b6b6b",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "085f62b4-2c5f-461b-ba58-bd2987c9ab10": {
+      "type": "rich-text-image",
+      "custom_css": [
+        ".vertical-breather {padding: 0;}",
+        ".heading {font-weight: 300; font-family: \"Helvetica Neue Thin\", var(--text-font-family);}"
+      ],
+      "settings": {
+        "title": "LENS CLUTCH",
+        "subheading": "Lens quick release system giving you the fastest, most secure method to switch lenses.",
+        "content": "",
+        "image": "shopify:\/\/shop_images\/M_Lens_Clutch_Desktop.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/M_Tech_Page_Mobile_FramePage_02_1.png",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "heading_font_size_desktop": 48,
+        "heading_font_size_mobile": 26,
+        "subheading_font_size_desktop": 22,
+        "subheading_font_size_mobile": 16,
+        "text_position": "center",
+        "text_alignment": "center",
+        "remove_top_spacing": true,
+        "remove_bottom_spacing": true,
+        "background": "#ffffff",
+        "text_color": "#6b6b6b",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "2c357457-e660-4c02-a8d3-688ddfd1a6c6": {
+      "type": "rich-text-image",
+      "custom_css": [
+        ".vertical-breather {padding: 0;}",
+        ".heading {font-weight: 300; font-family: \"Helvetica Neue Thin\", var(--text-font-family);}"
+      ],
+      "settings": {
+        "title": "3-Way Adjustable Nose Piece",
+        "subheading": "Adjustable nose piece system designed for different nose sizes and provides a secure, non-slip fit.",
+        "content": "",
+        "image": "shopify:\/\/shop_images\/M_Tech_Page_Desktop_FramePage_03_1.png",
+        "mobile_image": "shopify:\/\/shop_images\/M_Tech_Page_Mobile_FramePage_03_1.png",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "heading_font_size_desktop": 48,
+        "heading_font_size_mobile": 26,
+        "subheading_font_size_desktop": 22,
+        "subheading_font_size_mobile": 16,
+        "text_position": "center",
+        "text_alignment": "center",
+        "remove_top_spacing": true,
+        "remove_bottom_spacing": true,
+        "background": "#ffffff",
+        "text_color": "#6b6b6b",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "87091a3e-5730-4415-8543-98a811cbac59": {
+      "type": "rich-text-image",
+      "custom_css": [
+        ".vertical-breather {padding: 0;}",
+        ".heading {font-weight: 300; font-family: \"Helvetica Neue Thin\", var(--text-font-family);}"
+      ],
+      "settings": {
+        "title": "SLICS",
+        "subheading": "Ear pads engineered with Atomic 14 providing maximum comfort and non-slip grip.",
+        "content": "",
+        "image": "shopify:\/\/shop_images\/slics_80dd85fd-b6f4-4e99-8032-6ef16d64c671.png",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "heading_font_size_desktop": 48,
+        "heading_font_size_mobile": 26,
+        "subheading_font_size_desktop": 22,
+        "subheading_font_size_mobile": 16,
+        "text_position": "center",
+        "text_alignment": "center",
+        "remove_top_spacing": true,
+        "remove_bottom_spacing": true,
+        "background": "#ffffff",
+        "text_color": "#6b6b6b",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "a933221b-0b97-48e2-bc7f-44b022510c0b": {
+      "type": "rich-text",
+      "disabled": true,
+      "custom_css": [
+        ".vertical-breather {padding-bottom: 0;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "Lens Clutch",
+        "content": "<p>Lens quick release system giving you the fastest, most secure<br\/>method to switch lenses.<\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "remove_top_spacing": false,
+        "remove_bottom_spacing": true,
+        "background": "#ffffff",
+        "text_color": "#6b6b6b",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "d0e7fa1a-2bcd-4461-8f46-1cf260febdce": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/M_Tech_Page_Desktop_FramePage_04.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/M_Tech_Page_Mobile_FramePage_04_55b0e6a4-5f6f-43a7-b6bd-737cfa614a3a.jpg",
+        "title": "Slics",
+        "title_mobile": "",
+        "subheading": "Ear pads engineered with Atomic 14 providing maximum comfort and non-slip grip.",
+        "subheading_mobile": "",
+        "content": "",
+        "panel_link": "",
+        "heading_font_size_desktop": 56,
+        "heading_font_size_mobile": 32,
+        "subheading_font_size_desktop": 26,
+        "subheading_font_size_mobile": 22,
+        "font_scale": "default",
+        "overlay_content_position": "top-center",
+        "content_position_mobile": "none",
+        "nudge_text_x-axis_desktop": 0,
+        "nudge_text_y-axis_desktop": 0,
+        "nudge_text_x-axis_mobile": 0,
+        "nudge_text_y-axis_mobile": 0,
+        "text_align_desktop": "center",
+        "text_align_mobile": "center",
+        "heading_drop_shadow": false,
+        "heading_drop_shadow_x-offset": 0,
+        "heading_drop_shadow_y-offset": 3,
+        "heading_drop_shadow_color": "#000000",
+        "heading_drop_shadow_opacity": 40,
+        "nudge_subheading_y-axis_mobile": 0,
+        "nudge_subheading_y-axis_desktop": -2,
+        "remove_top_spacing": false,
+        "remove_bottom_spacing": false,
+        "max_width_container": false,
+        "background_type": "full_width",
+        "text_color": "#6b6b6b",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "3bfe0b16-525e-4da9-b47b-6066778cd29b": {
+      "type": "rich-text-image",
+      "settings": {
+        "title": "Complex Design.\nSimple Result.",
+        "subheading": "THERE ARE 27 INDIVIDUAL PARTS METICULOUSLY ASSEMBLED TOGETHER TO MAKE ONE GIGAWATT",
+        "content": "",
+        "image": "shopify:\/\/shop_images\/exploded.png",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "fill",
+        "heading_font_size_desktop": 86,
+        "heading_font_size_mobile": 22,
+        "subheading_font_size_desktop": 28,
+        "subheading_font_size_mobile": 16,
+        "text_position": "center",
+        "text_alignment": "center",
+        "remove_top_spacing": true,
+        "remove_bottom_spacing": false,
+        "background": "#ffffff",
+        "text_color": "#6b6b6b",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "94005b04-1d9a-40aa-8fc8-764c88a00b1d": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/M_Tech_Page_Desktop_Exploded_View.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/M_Tech_Page_Mobile_Exploded_View.jpg",
+        "title": "Complex Design. Simple Result",
+        "title_mobile": "Complex Design.\nSimple Result",
+        "subheading": "THERE ARE 27 INDIVIDUAL PARTS METICULOUSLY ASSEMBLED\nTOGETHER TO MAKE ONE GIGAWATT",
+        "subheading_mobile": "",
+        "content": "",
+        "panel_link": "",
+        "heading_font_size_desktop": 86,
+        "heading_font_size_mobile": 22,
+        "subheading_font_size_desktop": 28,
+        "subheading_font_size_mobile": 14,
+        "font_scale": "default",
+        "overlay_content_position": "top-center",
+        "content_position_mobile": "none",
+        "nudge_text_x-axis_desktop": 0,
+        "nudge_text_y-axis_desktop": 0,
+        "nudge_text_x-axis_mobile": 0,
+        "nudge_text_y-axis_mobile": 0,
+        "text_align_desktop": "center",
+        "text_align_mobile": "center",
+        "heading_drop_shadow": false,
+        "heading_drop_shadow_x-offset": 0,
+        "heading_drop_shadow_y-offset": 3,
+        "heading_drop_shadow_color": "#000000",
+        "heading_drop_shadow_opacity": 40,
+        "nudge_subheading_y-axis_mobile": 0,
+        "nudge_subheading_y-axis_desktop": -2,
+        "remove_top_spacing": false,
+        "remove_bottom_spacing": false,
+        "max_width_container": false,
+        "background_type": "full_width",
+        "text_color": "#6b6b6b",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "d055788d-85a4-4fb3-9150-d49a2881728c": {
+      "type": "rich-text-image",
+      "custom_css": [
+        "h3 {text-transform: uppercase; font-size: 26px; margin-bottom: 0.5rem; font-family: \"Helvetica Neue Thin\", var(--text-font-family);}",
+        "@media screen and (min-width: 750px) {h3 {text-align: left; font-size: 32px; font-weight: 300; margin-bottom: 1rem; }}",
+        "li {font-size: 18px; margin: 0; padding: 0;}",
+        "@media screen and (min-width: 750px) {li {font-size: 20px; }}",
+        "ul {text-align: left;}"
+      ],
+      "settings": {
+        "title": "Pleasure",
+        "subheading": "",
+        "content": "<h3>Lens Technology<\/h3><ul><li>Lens Geometry: AI assisted 3 axis correction for prismatic distortion and refractive power.<\/li><li>Plasmachromatic: Precision coatings reflect light, reducing glare and eye strain.<\/li><li>Polarized: High-performance coating blocking 99.9% of reflective glare.<\/li><li>Eye Fence: Impact resistance for maximum eye protection.<\/li><li>Res+: Ultra-definition optical clarity reducing distortion while offering a wider field of view.<\/li><\/ul><h3>Materials<\/h3><ul><li>M Carbon: Proprietary frame material providing superior heat resistance and durability.<\/li><li> Atomic 13: Blended Aluminum used for toughness, lightness, and strength.<\/li><li>Thermo Carbon: Delivers proven impact resistance, maximum optical clarity and durability.<\/li><\/ul>",
+        "image": "shopify:\/\/shop_images\/Pleasure_Desktop.svg",
+        "mobile_image": "shopify:\/\/shop_images\/Pleasure_Mobile.svg",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "heading_font_size_desktop": 118,
+        "heading_font_size_mobile": 50,
+        "subheading_font_size_desktop": 22,
+        "subheading_font_size_mobile": 16,
+        "text_position": "center",
+        "text_alignment": "center",
+        "remove_top_spacing": false,
+        "remove_bottom_spacing": false,
+        "background": "#ffffff",
+        "text_color": "#6b6b6b",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "173465b1-f4cf-46fc-9f10-1e7428d7efae": {
+      "type": "rich-text",
+      "disabled": true,
+      "custom_css": [
+        ".vertical-breather {padding-top: 0;}",
+        "h3 {text-transform: uppercase; font-size: 26px; margin-bottom: 0.5rem;}",
+        "@media screen and (min-width: 750px) {h3 {font-size: 32px; margin-bottom: 1rem; }}",
+        "li {font-size: 18px; margin: 0; padding: 0;}",
+        "@media screen and (min-width: 750px) {li {font-size: 26px; }}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "<h3>Lens Technology<\/h3><ul><li>Lens Geometry: Ai assisted 3 axis correction for prismatic distortion and refractive power.<\/li><li>Plasma (Plasmachromatic): Precision coatings reflect light, reducing glare and eye strain.<\/li><li>Polarized: High- performance coating blocking 99.9% of reflective glare.<\/li><li>Eye Fence: Impact resistance for maximum eye protection.<\/li><li>Res+: Ultra-Definition optical clarity reducing distortion while offering a wider field of view.<\/li><\/ul><h3>Materials<\/h3><ul><li>M Carbon: Proprietary frame material providing superior heat resistance and durability.<\/li><li> Atomic 13: Blended Aluminum used for toughness, lightness, and strength.<\/li><li>Thermo Carbon: Delivers proven impact resistance, maximum optical clarity and durability.<\/li><\/ul>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "left",
+        "remove_top_spacing": true,
+        "remove_bottom_spacing": false,
+        "background": "#ffffff",
+        "text_color": "#6b6b6b",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "627d2560-695a-46ac-b6d9-5123f3b028c5": {
+      "type": "rich-text-image",
+      "custom_css": [
+        "h3 {text-transform: uppercase; font-size: 26px; margin-bottom: 0.5rem; font-family: \"Helvetica Neue Thin\", var(--text-font-family);}",
+        "@media screen and (min-width: 750px) {h3 {text-align: left; font-size: 32px; font-weight: 300; margin-bottom: 1rem; }}",
+        "li {font-size: 18px; margin: 0; padding: 0;}",
+        "@media screen and (min-width: 750px) {li {font-size: 20px; }}",
+        "ul {text-align: left;}"
+      ],
+      "settings": {
+        "title": "Business",
+        "subheading": "",
+        "content": "<h3>Lens Technology<\/h3><ul><li>Lens Geometry: AI assisted 3 axis correction for prismatic distortion and refractive power.<\/li><li>Plasmachromatic: Precision coatings reflect light, reducing glare and eye strain.<\/li><li>Polarized: High-performance coating blocking 99.9% of reflective glare.<\/li><li>Eye Fence: Impact resistance for maximum eye protection.<\/li><li>Res+: Ultra-definition optical clarity reducing distortion while offering a wider field of view.<\/li><\/ul><h3>Materials<\/h3><ul><li>M Carbon: Proprietary frame material providing superior heat resistance and durability.<\/li><li>Atomic 13: Blended Aluminum used for toughness, lightness, and strength.<\/li><li>Thermo Carbon: Delivers proven impact resistance, maximum optical clarity and durability.<\/li><\/ul>",
+        "image": "shopify:\/\/shop_images\/Business_Desktop.svg",
+        "mobile_image": "shopify:\/\/shop_images\/Business_Mobile.svg",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "heading_font_size_desktop": 118,
+        "heading_font_size_mobile": 50,
+        "subheading_font_size_desktop": 22,
+        "subheading_font_size_mobile": 16,
+        "text_position": "center",
+        "text_alignment": "center",
+        "remove_top_spacing": false,
+        "remove_bottom_spacing": false,
+        "background": "#ffffff",
+        "text_color": "#6b6b6b",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "b4316874-c722-44c5-8a75-11e6af86aafd": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/M_Tech_Page_Desktop_Business.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/M_Tech_Page_Mobile_Business.jpg",
+        "title": "Business",
+        "title_mobile": "",
+        "subheading": "",
+        "subheading_mobile": "",
+        "content": "",
+        "panel_link": "",
+        "heading_font_size_desktop": 118,
+        "heading_font_size_mobile": 40,
+        "subheading_font_size_desktop": 22,
+        "subheading_font_size_mobile": 16,
+        "font_scale": "default",
+        "overlay_content_position": "top-center",
+        "content_position_mobile": "none",
+        "nudge_text_x-axis_desktop": 0,
+        "nudge_text_y-axis_desktop": 0,
+        "nudge_text_x-axis_mobile": 0,
+        "nudge_text_y-axis_mobile": 0,
+        "text_align_desktop": "center",
+        "text_align_mobile": "center",
+        "heading_drop_shadow": false,
+        "heading_drop_shadow_x-offset": 0,
+        "heading_drop_shadow_y-offset": 3,
+        "heading_drop_shadow_color": "#000000",
+        "heading_drop_shadow_opacity": 40,
+        "nudge_subheading_y-axis_mobile": 0,
+        "nudge_subheading_y-axis_desktop": -2,
+        "remove_top_spacing": false,
+        "remove_bottom_spacing": true,
+        "max_width_container": false,
+        "background_type": "full_width",
+        "text_color": "#6b6b6b",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "3b299353-4adc-45bc-8bd2-bdfae82a6b2f": {
+      "type": "frame-compare",
+      "blocks": {
+        "4dcbe9e5-b3fb-440f-8367-d89c0053eca6": {
+          "type": "frame",
+          "settings": {
+            "title": "Gigawatt",
+            "image": "shopify:\/\/shop_images\/Gigawatt_2c3f2356-41fc-4f6a-8671-7f3d7589e1b2.png",
+            "specs": "LENS GEOMETRY….………………9-BASE\nLENS HEIGHT………………………42 mm\nLENS WIDTH…………..……………63 mm\nFRAME WIDTH……….…………….143.3 mm\nTEMPLE LENGTH…….……………136 mm\nWEIGHT…………………….……….33.26 g"
+          }
+        },
+        "f8c2289f-7ede-4f14-837c-4bd21039f1ee": {
+          "type": "frame",
+          "settings": {
+            "title": "Pleasure",
+            "image": "shopify:\/\/shop_images\/Pleasure.png",
+            "specs": "LENS GEOMETRY…………………6-BASE\nLENS HEIGHT………………………40 mm\nLENS WIDTH……….………………53 mm\nFRAME WIDTH…………………….148 mm\nTEMPLE LENGTH…………………134 mm\nWEIGHT…………………………….38.3 g"
+          }
+        },
+        "90cff8e1-d4c4-4f2f-8d89-b5b9c8a34416": {
+          "type": "frame",
+          "settings": {
+            "title": "Business",
+            "image": "shopify:\/\/shop_images\/Business.png",
+            "specs": "LENS GEOMETRY…….……………4-BASE\nLENS HEIGHT………………………37 mm\nLENS WIDTH……………..…………52 mm\nFRAME WIDTH…………….……….144 mm\nTEMPLE LENGTH………….………137 mm\nWEIGHT………………………….….31.3 g"
+          }
+        }
+      },
+      "block_order": [
+        "4dcbe9e5-b3fb-440f-8367-d89c0053eca6",
+        "f8c2289f-7ede-4f14-837c-4bd21039f1ee",
+        "90cff8e1-d4c4-4f2f-8d89-b5b9c8a34416"
+      ],
+      "settings": {
+        "heading": "Frame \nComparison Chart",
+        "background": "#ffffff",
+        "text_color": "#6b6b6b"
+      }
+    },
+    "39bbc60e-9d45-43e2-8e2d-19faa3687d75": {
+      "type": "gallery",
+      "blocks": {
+        "template--16013649903766__39bbc60e-9d45-43e2-8e2d-19faa3687d75-168637622631aac686-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/M_Exp_Gallery_03_copy.png",
+            "caption": ""
+          }
+        },
+        "ee2ac64b-a1d1-4f6c-b052-d283758eb08f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/0_2.png",
+            "caption": ""
+          }
+        },
+        "template--16013649903766__39bbc60e-9d45-43e2-8e2d-19faa3687d75-168637622631aac686-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/M_Exp_Gallery_04_copy.png",
+            "caption": ""
+          }
+        },
+        "template--16013649903766__39bbc60e-9d45-43e2-8e2d-19faa3687d75-168637622631aac686-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/M_Exp_Gallery_05_copy.png",
+            "caption": ""
+          }
+        },
+        "61abb05b-f3e4-4ef3-99ed-42373ce9e9dd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/M_Exp_Gallery_04.png",
+            "caption": ""
+          }
+        },
+        "2f0349b5-7181-48f7-ae41-6258a5c243b7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/M_Exp_Gallery_02_copy.png",
+            "caption": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16013649903766__39bbc60e-9d45-43e2-8e2d-19faa3687d75-168637622631aac686-0",
+        "ee2ac64b-a1d1-4f6c-b052-d283758eb08f",
+        "template--16013649903766__39bbc60e-9d45-43e2-8e2d-19faa3687d75-168637622631aac686-2",
+        "template--16013649903766__39bbc60e-9d45-43e2-8e2d-19faa3687d75-168637622631aac686-1",
+        "61abb05b-f3e4-4ef3-99ed-42373ce9e9dd",
+        "2f0349b5-7181-48f7-ae41-6258a5c243b7"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "show_arrows": true,
+        "background": "#ffffff",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "7c397d8b-4535-435d-a70f-4a09d1f10ae7",
+    "2c979ee6-673b-4b74-aa6c-9208ec62a8e1",
+    "bfde50f9-1a96-47a9-a50a-eddd33fa45ff",
+    "fe014da0-6a33-405c-b4b7-9096fdd9915d",
+    "b94428e8-336a-4948-b3fb-06ee7f4aae6a",
+    "ceb17ac0-fbaa-45b9-b438-a9694758bd82",
+    "7b4de6a6-15a3-4cf6-ab2d-d9894c2aa7cd",
+    "867df809-77d4-4790-a98d-372e5b2ca373",
+    "7dbe9f48-ac28-4c45-b40a-b87015168b00",
+    "3f84c371-f546-4f31-9b3f-6d062ab35bfb",
+    "f692ea7a-b838-480d-ac3b-fecda68d3a83",
+    "085f62b4-2c5f-461b-ba58-bd2987c9ab10",
+    "2c357457-e660-4c02-a8d3-688ddfd1a6c6",
+    "87091a3e-5730-4415-8543-98a811cbac59",
+    "a933221b-0b97-48e2-bc7f-44b022510c0b",
+    "d0e7fa1a-2bcd-4461-8f46-1cf260febdce",
+    "3bfe0b16-525e-4da9-b47b-6066778cd29b",
+    "94005b04-1d9a-40aa-8fc8-764c88a00b1d",
+    "d055788d-85a4-4fb3-9150-d49a2881728c",
+    "173465b1-f4cf-46fc-9f10-1e7428d7efae",
+    "627d2560-695a-46ac-b6d9-5123f3b028c5",
+    "b4316874-c722-44c5-8a75-11e6af86aafd",
+    "3b299353-4adc-45bc-8bd2-bdfae82a6b2f",
+    "39bbc60e-9d45-43e2-8e2d-19faa3687d75"
+  ]
+}

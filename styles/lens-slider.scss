@@ -1,0 +1,76 @@
+.lens-slider {
+    .container {
+        padding: 3rem var(--container-gutter);
+
+        @media screen and (min-width: 740px) {
+            padding: var(--vertical-breather) var(--container-gutter);
+        }
+    }
+
+    &__heading {
+        text-transform: uppercase;
+    }
+
+    &__item {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        
+        @media screen and (min-width: 740px) {
+            padding: 12px;
+        }
+
+        &-title,
+        &-description {
+            text-align: center;
+        }
+
+        &-title {
+            font-size: 18px;
+            font-weight: 500;
+            letter-spacing: 0.05em;
+            text-shadow: 0px 3px 3px rgba(0, 0, 0, 0.160784);
+            text-transform: uppercase;
+            word-break: break-word;
+
+            @media screen and (min-width: 740px) {
+                font-size: 22px;
+            }
+        }
+
+        &-description {
+            font-size: 15px;
+            line-height: 23px;
+            padding-top: 28px;
+            word-break: break-word;
+
+            @media screen and (min-width: 740px) {
+                font-size: 16px;
+                font-weight: 500;
+            }
+        }
+    }
+
+    &__bottom-border {
+        display: flex;
+        height: 1px;
+        padding-top: 2rem;
+        width: 100%;
+
+        @media screen and (min-width: 740px) {
+            padding-top: 2.5rem;
+        }
+
+        &--yellow {
+            background-color: #E2A829;
+            height: 1px;
+            width: 33.33%;
+        }
+
+        &--grey {
+            background-color: #3E3E3E;
+            height: 1px;
+            width: 66.66%;
+        }
+    }
+}
