@@ -162,8 +162,13 @@
 
           {%- if section.settings.image != blank -%}
             {%- assign image = section.settings.image -%}
-            <div class="image__wrapper {% if section.blocks.size > 0 %}hidden-phone{% endif %}">
+            <div class="{% if section.blocks.size > 0 %}hidden-phone{% endif %}" style="position: relative;">
               {{ image | image_url: width: image.width | image_tag: loading: 'lazy' }}
+              {%- if section.settings.svg != blank -%}
+                <div class="svg-overlay">
+                  {{ section.settings.svg }}
+                </div>
+              {%- endif -%}
             </div>
           {%- endif -%}
 
@@ -184,6 +189,11 @@
                               sizes: '100vw',
                               widths: '300,400,500,600,700,800,1000,1200,1400,1600,1800,2000,2200,2400,2600,2800,3000'
                           -}}
+                          {%- if block.settings.svg_mobile != blank -%}
+                            <div class="svg-overlay">
+                              {{ block.settings.svg_mobile }}
+                            </div>
+                          {%- endif -%}
                         </gallery-item>
                     {%- endcase -%}
                   {%- endfor -%}
@@ -241,7 +251,12 @@
     {
       "type": "image_picker",
       "id": "image",
-      "label": "Image"
+      "label": "Desktop Image"
+    },
+    {
+      "type": "html",
+      "id": "svg",
+      "label": "SVG Desktop Overlay"
     },
     {
       "type": "text",
@@ -427,7 +442,12 @@
           "type": "image_picker",
           "id": "mobile_image",
           "label": "Mobile Image"
-        }
+        },
+        {
+          "type": "html",
+          "id": "svg_mobile",
+          "label": "SVG Mobile Overlay"
+        },
       ]
     }
   ],
