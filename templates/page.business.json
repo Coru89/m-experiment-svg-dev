@@ -953,7 +953,7 @@
     "47744468-f2e8-4732-b4b8-773e49ebb6ae": {
       "type": "rich-text-image",
       "custom_css": [
-        ".vertical-breather {margin: 0;}"
+        ".vertical-breather {padding: 0;}"
       ],
       "settings": {
         "title": "",
