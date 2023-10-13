@@ -897,6 +897,7 @@
       "block_order": [
         "template--16029444243606__ce7922f5-03e9-4679-937e-f17ca0e41145-16870589452ad38cbd-0"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "auto",
         "transition_type": "sweep",
