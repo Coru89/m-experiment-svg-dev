@@ -16277,3 +16277,7 @@ form input[required] + label:after  {
   right: 0;
   top: 0;
 }
+
+.svg-overlay--scroller {
+  top: 48px;
+}

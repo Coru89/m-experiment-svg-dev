@@ -179,7 +179,7 @@
                   {%- for block in section.blocks -%}
                     {%- case block.type -%}
                       {%- when 'image' -%}
-                        <gallery-item>
+                        <gallery-item style="position: relative;">
                           {%- assign mobile_image = block.settings.mobile_image -%}
                           {{-
                             mobile_image
@@ -190,7 +190,7 @@
                               widths: '300,400,500,600,700,800,1000,1200,1400,1600,1800,2000,2200,2400,2600,2800,3000'
                           -}}
                           {%- if block.settings.svg_mobile != blank -%}
-                            <div class="svg-overlay">
+                            <div class="svg-overlay svg-overlay--scroller">
                               {{ block.settings.svg_mobile }}
                             </div>
                           {%- endif -%}
