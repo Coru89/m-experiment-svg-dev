@@ -850,63 +850,6 @@
         "text_color": "#000000"
       }
     },
-    "96cab498-560d-4661-888f-a2f65c1de5a9": {
-      "type": "slideshow",
-      "blocks": {
-        "template--16029444210838__96cab498-560d-4661-888f-a2f65c1de5a9-16870589452ad38cbd-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/M_comparison_Business_Pleasure_Desktop.svg",
-            "mobile_image": "shopify:\/\/shop_images\/M_comparison_Business_Pleasure_Mobile.svg",
-            "title": "",
-            "title_mobile": "",
-            "subheading": "",
-            "subheading_mobile": "",
-            "panel_link": "",
-            "heading_font_size_desktop": 118,
-            "heading_font_size_mobile": 50,
-            "subheading_font_size_desktop": 22,
-            "subheading_font_size_mobile": 16,
-            "font_scale": "default",
-            "font_scale_subheading": "unset",
-            "overlay_content_position": "middle-center",
-            "content_position_mobile": "none",
-            "nudge_text_x-axis_desktop": 0,
-            "nudge_text_y-axis_desktop": 0,
-            "nudge_text_x-axis_mobile": 0,
-            "nudge_text_y-axis_mobile": 0,
-            "heading_drop_shadow": false,
-            "heading_drop_shadow_x-offset": 0,
-            "heading_drop_shadow_y-offset": 3,
-            "heading_drop_shadow_color": "#000000",
-            "heading_drop_shadow_opacity": 40,
-            "nudge_subheading_y-axis_mobile": 0,
-            "nudge_subheading_y-axis_desktop": 0,
-            "remove_top_spacing": false,
-            "remove_bottom_spacing": false,
-            "subheading_uppercase": false,
-            "subheading_border": false,
-            "subheading_border_padding": 16,
-            "max_width_container": false,
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "template--16029444210838__96cab498-560d-4661-888f-a2f65c1de5a9-16870589452ad38cbd-0"
-      ],
-      "settings": {
-        "section_height": "auto",
-        "transition_type": "sweep",
-        "autoplay": true,
-        "cycle_speed": 5,
-        "background": "rgba(0,0,0,0)"
-      }
-    },
     "fc88775c-87f4-40e6-83a9-96187e60cd01": {
       "type": "slideshow",
       "blocks": {
@@ -1009,6 +952,9 @@
     },
     "47744468-f2e8-4732-b4b8-773e49ebb6ae": {
       "type": "rich-text-image",
+      "custom_css": [
+        ".vertical-breather {margin: 0;}"
+      ],
       "settings": {
         "title": "",
         "subheading": "",
@@ -1055,7 +1001,6 @@
     "16585205940290ba28",
     "165852067643b1b37d",
     "1659194976e155addd",
-    "96cab498-560d-4661-888f-a2f65c1de5a9",
     "fc88775c-87f4-40e6-83a9-96187e60cd01",
     "47744468-f2e8-4732-b4b8-773e49ebb6ae"
   ]
